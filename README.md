@@ -1,4 +1,4 @@
-# NLP: Emotion and Sentimental Analysis For Songs 
+# NLP: Emotion and Sentiment Analysis For Songs 
 In this project, we implement two large CNN models for emotion recognition and sentiment analysis for song’s lyrics. We collected the lyrics using a web scraper, and pre-processed them using several different techniques, and used them coupled
 with MoodyLyrics classification tags to train our models. We achieved a high accuracy and F1 scores for both emotion and sentiment analysis.
 
